@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+instance/
+.webassets-cache
+secure.py
